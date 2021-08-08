@@ -56,22 +56,22 @@ The study is composed of 3 features
     2. Products to be sent from the same seller must be in the same group
     3. Manual Cases
     
-* **CASE1** in order : 
-    - Complates the Feature1
-    - Then she visits the cart.
-    - It checks that the products added from different vendors are in different groups. If not, it returns an error message.
-    - The process is finished, the browser is closed.
-  
-* **CASE2** in order : 
-    - Complates the Feature2
-    - Then she visits the cart.
-    - Checks if products added from the same vendors are in the same group. If not, it returns an error message.
-    - The process is finished, the browser is closed.
-  
-* Cases related to the shipping fee whose automation is not written :
-    - 50₺ and above should be free shipping
-    - There should be a shipping fee of 12,99₺ for the purchase of a mobile phone, laptop, or tablet
-    - The applied shipping fee should be a maximum of 12.99₺ (Abuse may occur.!)
+        * **CASE1** in order : 
+            - Complates the Feature1
+            - Then she visits the cart.
+            - It checks that the products added from different vendors are in different groups. If not, it returns an error message.
+            - The process is finished, the browser is closed.
+
+        * **CASE2** in order : 
+            - Complates the Feature2
+            - Then she visits the cart.
+            - Checks if products added from the same vendors are in the same group. If not, it returns an error message.
+            - The process is finished, the browser is closed.
+
+        * Cases related to the shipping fee whose automation is not written :
+            - 50₺ and above should be free shipping
+            - There should be a shipping fee of 12,99₺ for the purchase of a mobile phone, laptop, or tablet
+            - The applied shipping fee should be a maximum of 12.99₺ (Abuse may occur.!)
 
 Screenshots
 ------------
