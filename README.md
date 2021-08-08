@@ -75,7 +75,7 @@ The study is composed of 3 features
             - There should be a shipping fee of 12,99₺ for the purchase of a mobile phone, laptop, or tablet
             - The applied shipping fee should be a maximum of 12.99₺ (Abuse may occur.!)
 
-Screenshots
+Screenshot
 ------------
-**Screenshot of 3 scenarios running simultaneously:**
+**Screenshot of 3 scenarios running simultaneously**
 ![img.png](images/img.png)
