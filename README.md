@@ -1,4 +1,4 @@
-Case Study for Hepsiburada Software Test Engineer
+Case Study for Hepsiburada Software Test Engineer <img align="left" alt="Terminal" width="50px" src="https://avatars.githubusercontent.com/u/11753097?s=200&v=4" />
 ====
 
 This study is a case study created for Hepsiburada using [selenium](https://pypi.org/project/selenium/), [behave](https://pypi.org/project/behave/).
