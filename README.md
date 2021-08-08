@@ -23,6 +23,8 @@ Installation
     cd hepsiburada_challenge
 
     pip install -r requirements.txt
+    
+    cd features
 
 Start the Test
 ----------
