@@ -78,4 +78,5 @@ The study is composed of 3 features
 Screenshot
 ------------
 **Screenshot of 3 scenarios running simultaneously**
+
 ![img.png](images/img.png)
